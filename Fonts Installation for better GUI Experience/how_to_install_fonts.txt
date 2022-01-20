@@ -1,0 +1,9 @@
+Steps:
+1)Extract above Folder and you will see a lot of files with new Folder with same name(go inside it in ttf folder)
+
+2) Select All Files and Right Click and then First Option
+Install(you must see Administrater Icon there)
+
+3)may be you will be prompt with administrater cmd window option just click on okay/yes/agree
+
+4) all done now you can use software with JetBrains Mono fonts
